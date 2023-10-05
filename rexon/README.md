@@ -41,6 +41,5 @@ python3 c2.py
 
 # CONTACT:
 ```sh
-Telegram: @rexonc2
-Discord: Soon
+Instagram : @b.yyll
 ```
