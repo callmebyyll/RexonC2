@@ -1,6 +1,4 @@
 
-
-
 <div align=center>
 # 🚀 RexonC2 Powerfull Panel 🚀
 
